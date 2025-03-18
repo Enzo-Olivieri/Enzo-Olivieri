@@ -9,6 +9,7 @@
 - 🔬 Conducting research on **VR in medical education**.
 - 🏆 Collaborating on **machine learning competitions** with university ML Society.
 - 🌍 Worked with interns & presented work to **CEOs and managers** during my internship at Nature Impact.
+- 🪐 Conducted **Astrophysics research** simulating gravitational effects on exoplanets using Python (REBOUND).
 - 🔍 Currently **applying for Data Science internships** and actively improving my data science skills.
 
 ---
