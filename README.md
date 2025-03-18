@@ -29,10 +29,10 @@
 ---
 
 ### 🛠 Tech Stack & Skills
-- **Languages:** Python (Pandas, Matplotlib, Seaborn, Numpy, Scikit-learn, TensorFlow, Keras), SQL
-- **Tools:** Git, GitHub, Jupyter, Tableau
-- **Machine Learning:** Data cleaning, model training, feature engineering
-- **VR Development:** Meta Quest 3, Unity, VR in Education Research
+- **Languages:** Python (Pandas, Matplotlib, Seaborn, Numpy, Scikit-learn, TensorFlow, Keras), SQL.
+- **Tools:** Git, GitHub, Jupyter, Tableau.
+- **Machine Learning:** Data cleaning, model training, feature engineering.
+- **VR Development:** Meta Quest 3, Unity, VR in Education Research.
 
 ---
 
