@@ -36,7 +36,7 @@
 ---
 
 ### 📬 Let's Connect!
-- 💼 [LinkedIn](#) *(https://www.linkedin.com/in/enzo-olivieri-cortes-032b661a7/)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/enzo-olivieri-cortes-032b661a7/)
 - 📧 Email:  *enzo-olivieri@hotmail.com*
 
 ---
